@@ -1,2 +1,2 @@
 # <div align="center">REPORT</div>
-Figma community files used for frontend design.
+[Link to figma file](https://www.figma.com/file/joUrw9WyGQRKJj09HJGsYb/TSG-Hackathon)
